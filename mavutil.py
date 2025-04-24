@@ -4,6 +4,7 @@ mavlink python utility functions
 
 Copyright Andrew Tridgell 2011-2019
 Released under GNU LGPL version 3 or later
+test by NS
 '''
 from __future__ import print_function
 from builtins import object
